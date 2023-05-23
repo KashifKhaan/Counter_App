@@ -14,5 +14,6 @@ let the app download the required files
 
 You're good to go...
 
+## Home Page:
 
 ![home](https://github.com/KashifKhaan/Counter_App/assets/88695658/57583979-fee8-4c67-8314-bbbf62586f47)
