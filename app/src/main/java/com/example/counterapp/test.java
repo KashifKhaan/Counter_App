@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class MainActivity extends AppCompatActivity {
+public class test extends AppCompatActivity {
     
     int counter = 0;
     TextView textCount;
